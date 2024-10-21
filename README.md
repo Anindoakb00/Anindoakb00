@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anindo</h1>
 <h3 align="center">A passionate Web App Developer and Humble Computer Science Student.</h3>
-
+<img align='right" alt="codingakb" width="450" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdevelopers.giphy.com%2Fdocs%2Fapi%2F&psig=AOvVaw0BGeSWqMm_Gnph27M6p1__&ust=1729580137966000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCq3KPynokDFQAAAAAdAAAAABAc">
 <p align="left"> <a href="https://twitter.com/anindoakb" target="blank"><img src="https://img.shields.io/twitter/follow/anindoakb?logo=twitter&style=for-the-badge" alt="anindoakb" /></a> </p>
 
 - 💬 Ask me about **fastapi,python,django,react,C and Java**
