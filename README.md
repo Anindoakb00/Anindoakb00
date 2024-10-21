@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Anindoakb00/Anindoakb00/blob/main/Anindo_1.png" alt="Background Image" width="100%" />
+  <img src="https://github.com/Anindoakb00/Anindoakb00/blob/main/Anindo_1.png" alt="Background Image" width="60%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Anindo</h1>
